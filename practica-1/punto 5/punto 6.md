@@ -12,7 +12,7 @@
 
 -   # Libro <-referencia-> Libro
 
--   ## Referencia <titulo(PK, FK), referido(FK)>
+-   ## Referencia <titulo_refiere(PK, FK), referido(FK)>
 
 -   # Autor <-escribe-> Libro
 
